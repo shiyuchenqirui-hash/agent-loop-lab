@@ -1,0 +1,10 @@
+node_modules/
+.env*
+!.env.example
+dist/
+.playwright-mcp/
+.DS_Store
+*.log
+
+# Local React scratch exercise, not part of the Agent CLI.
+/a.tsx
